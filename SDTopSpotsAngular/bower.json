@@ -1,0 +1,17 @@
+{
+  "name": "demo",
+  "description": "",
+  "main": "gulpfile.js",
+  "license": "ISC",
+  "homepage": "https://github.com/JesseFriedner24/SDTopSpotsAngular",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.8"
+  }
+}
